@@ -1,0 +1,53 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "en-IN": {
+          "summary": "A skill that provides some great Doctor Who Facts.",
+          "examplePhrases": [
+            "Alexa open doctor who facts",
+            "Give me a fact",
+            "Get some fascinating facts"
+          ],
+          "keywords": [
+            "DoctorWho",
+            "Tardis",
+            "TimelessChild",
+            "TimeLord"
+          ],
+          "name": "Doctor Who Facts",
+          "smallIconUri": "file://assets/images/en-IN_smallIconUri.png",
+          "description": "A skill that tells some great Doctor Who Facts that have been updated after the completion of Season 12, which unrolled some really great mysteries and facts that were never thought of.",
+          "updatesDescription": "All the facts have been updated to the standards and data from the latest theories, episodes, seasons, director\u0027s view, actor\u0027s tweets, etc. Updated everything within a week after completion of the Latest Season 12 (2020) of the TV Series Doctor Who.",
+          "largeIconUri": "file://assets/images/en-IN_largeIconUri.png"
+        }
+      },
+      "automaticDistribution": {
+        "isActive": false
+      },
+      "isAvailableWorldwide": true,
+      "testingInstructions": "Please use specified intents to proceed.",
+      "category": "MOVIE_AND_TV_KNOWLEDGE_AND_TRIVIA",
+      "distributionCountries": []
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:us-east-1:500342772813:function:0b51ae40-b3ba-4834-9811-4b9e1a9fee3e:Release_1"
+        },
+        "interfaces": []
+      }
+    },
+    "manifestVersion": "1.0",
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "locales": {
+        "en-IN": {}
+      },
+      "isExportCompliant": true,
+      "containsAds": false,
+      "isChildDirected": false,
+      "usesPersonalInfo": false
+    }
+  }
+}

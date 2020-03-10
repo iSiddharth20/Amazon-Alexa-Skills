@@ -1,0 +1,19 @@
+	[
+		' The original Daleks were controlled from the inside by short heighted operators.' ,  
+
+		' The theme music was originally composed by Ron Gainer and created by Delia Derbyshire at the BBC Radiophonic Workshop. But over the years, only its iteration is being used.' ,  
+
+		' The distinctive Tardis sound effect was originally created by simply rubbing the bass strings of a piano with a
+		his sound was then modified by the BBC Radiophonic Workshop.' ,  
+
+		' The Doctor has visited many different planets, but his home planet is called Gallifrey.' ,  
+
+		' The Doctor actually is a doctor! Once a man asked him, Listen, re you really a medical doctor? He replied, Yes I think I was once. I think I took a degree once in Glasgow, 1888 I think.' ,  
+
+		' Bow ties are cool, that is wha Matt Smith said in his first appearance as the Doctor. Bow tie sales shot up by 94% within a month at one high street store!' ,  
+
+		' Even though it is the law that Time Lords can regenerate only 12 times, yet he Doctor is differnet as he she is the the Timeless Child and also is the genetic code for all the Time Lords. Spoilers!' ,  
+
+		' The Doctors real name remains a complete mystery to all but a very small number of individuals know it including The Master, River Song and Clara Oswald.' , 'During his travels throughout time the Doctor has met and in some cases befriended plenty of historical figures, including: Leonardo da Vinci, William Shakespeare, Albert Einstein, Charles Dickens, Queen Vctoria ec.' , 'Asteroid 3325, a main belt asteroid discovered in 1984, is named Tardis after the Doctors time/space machin.' 
+	]
+   
