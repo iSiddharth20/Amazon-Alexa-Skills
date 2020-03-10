@@ -1,5 +1,0 @@
-# She-Facts Alexa Skill
-	Skill that tells Some Facts about Female Mind
-
-# Use the link below to Enable this Skill in your Alexa
-	https://www.amazon.in/Self-She-Facts/dp/B085MYHPQW/ref=sr_1_1?keywords=She+Facts&qid=1583786504&s=digital-skills&sr=1-1
