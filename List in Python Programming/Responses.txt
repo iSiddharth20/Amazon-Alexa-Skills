@@ -1,0 +1,14 @@
+    [
+    'In Python Lists the Index always starts from Zero.' ,
+    'Lists in Python are Mutable, that is, elements can be added, removed, modified after creation of list.' ,
+    'List in Python is defined using Square Brackets.' ,
+    'List in Python can contain Alphabets, Numbers, Other lists, dictionary Et cetera.' ,
+    'Each element of Python List can be accesed through its index.' ,
+    'To add an element in Python List, use the append function or extend function.' ,
+    'To delete an element from Python List, use the del function.' ,
+    'You can Concatenate two or more Python Lists using the Plus sign or technically known as addition operator.' , 
+    'List in Python is similar to an Array, but with more functionalities.' , 
+    'List in Python also support Negative Indexing, through which the last element holds Index as Negative One. ' , 
+    'The in function can be used to check in an element is present in the Python List.' , 
+    'The Copy function can be used to copy an entire Python List.'
+    ]

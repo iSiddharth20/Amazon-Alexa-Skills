@@ -1,0 +1,51 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "en-IN": {
+          "summary": "A skill that teaches basics of List Data Structure in Python Programming.",
+          "examplePhrases": [
+            "Alexa open list data structure python",
+            "tell me something about python list",
+            "some facts about list in python"
+          ],
+          "keywords": [
+            "python",
+            "list",
+            "programming"
+          ],
+          "name": "List in Python Programming",
+          "smallIconUri": "file://assets/images/en-IN_smallIconUri.png",
+          "description": "A skill that focuses on teaching the fundamental concepts about the List Data Structure in Python Programming Language. The goal is to understand and know the basics in as simple words as possible.",
+          "updatesDescription": "Since Python programming language is booming it is very important to know the very basic concepts, The goal is to teach those basic concepts.",
+          "largeIconUri": "file://assets/images/en-IN_largeIconUri.png"
+        }
+      },
+      "automaticDistribution": {
+        "isActive": false
+      },
+      "isAvailableWorldwide": true,
+      "testingInstructions": "Please use the mentioned Intent(s)",
+      "category": "EDUCATION_AND_REFERENCE",
+      "distributionCountries": []
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:us-east-1:500342772813:function:8b0dae50-5d58-4f80-9757-7a7779cc9670:Release_1"
+        },
+        "interfaces": []
+      }
+    },
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "locales": {
+        "en-IN": {}
+      },
+      "isExportCompliant": true,
+      "containsAds": false,
+      "isChildDirected": false,
+      "usesPersonalInfo": false
+    }
+  }
+}

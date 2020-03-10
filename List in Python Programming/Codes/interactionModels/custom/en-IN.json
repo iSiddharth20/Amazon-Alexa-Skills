@@ -1,0 +1,43 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "list data structure python",
+      "intents": [
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "PythonListIntent",
+          "slots": [],
+          "samples": [
+            "some facts about list in python",
+            "some facts about python list",
+            "what is special about python list",
+            "what is special about list in python",
+            "tell me something about python list",
+            "tell me something about list in python"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "6"
+}
