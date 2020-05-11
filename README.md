@@ -1,5 +1,5 @@
 # Alexa-Skills
-A repository for the Alexa Skills that I have made
+A repository of Base Code for the Alexa Skills that I have made and published on Amazon India ALexa Marketplace
 
 I have made 3 Alexa Skills
 1. [List in Python Programming](https://www.amazon.in/dp/B085PT6BV4/ref=sr_1_1?keywords=List+in+Python+Programming&qid=1583786731&s=digital-skills&sr=1-1)
